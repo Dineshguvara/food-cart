@@ -1,0 +1,107 @@
+.css-ov74nu {
+  justify-content: center !important;
+  margin: 40px 0px !important;
+}
+.css-ez23ye {
+  margin: 20% 0 !important;
+  background-color: #ff1a75 !important;
+  color: white !important;
+}
+
+.btn_wrap {
+  padding: 30px 60px !important;
+}
+.nav_list {
+  font-weight: 600 !important;
+  color: #666666 !important;
+}
+.nam {
+  color: black;
+  font-weight: 500;
+}
+.item {
+  padding: 10px !important;
+}
+.icon_s {
+  margin-right: 15px !important;
+}
+.dsn {
+  font-family: "Dancing Script", cursive;
+  font-size: 35px;
+  color: #bfbfbf;
+  margin-right: 2px;
+}
+.main_stk {
+  margin-right: auto;
+  align-items: end !important;
+}
+.arr_icn {
+  font-size: 40px;
+  color: #ff1a75 !important;
+  width: 120px !important;
+}
+.arr_icon {
+  color: #ff1a75 !important;
+  margin-left: 5px;
+}
+.badg {
+  margin-left: 25px;
+  font-size: 13px !important;
+  border: 2px solid #ff1a75;
+  background: #ff1a75 !important;
+  color: white !important;
+  border-radius: 15px !important;
+  padding: 0px 7px !important;
+}
+.active {
+  color: black !important;
+}
+.div {
+  width: 20px !important;
+  border: 1px solid #bfbfbf !important;
+  margin-bottom: 10px !important;
+}
+.ava {
+  margin-left: 20px;
+  margin-right: 5px !important;
+}
+.br_lft {
+  padding: 0 15px;
+  border-left: 2px solid #bfbfbf;
+}
+.cate {
+  font-weight: 500;
+  color: #bfbfbf;
+}
+.sub_stk {
+  margin-right: 30px;
+  align-items: flex-start !important;
+}
+.top_n {
+  color: #bfbfbf;
+  font-size: 12px;
+  justify-content: flex-start !important;
+}
+.bot_n {
+  color: black;
+  font-weight: 700;
+  font-size: 25px;
+}
+.cont {
+  color: #bfbfbf;
+  font-size: 20px;
+}
+.order_id {
+  color: #bfbfbf;
+  font-size: 20px;
+  margin-left: 25px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.table_num {
+  color: black;
+  font-weight: 700;
+  font-size: 13px;
+  margin-left: 5px;
+}

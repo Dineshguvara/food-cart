@@ -1,0 +1,26 @@
+.tab_list {
+  margin-left: 10%;
+  border-bottom: 1px solid #bfbfbf;
+}
+.tab_menu {
+  color: #666666 !important;
+  font-weight: 600 !important;
+  margin-bottom: 10px;
+  font-size: 16px !important;
+  padding: 10px !important;
+  margin: 10px 13px !important;
+}
+.btm_indicator {
+  margin-top: -2px;
+  height: 3px;
+  background-color: #ff1a75;
+}
+.gr_head {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 10px !important;
+}
+.css-a5mhaz {
+  margin-top: 30px;
+}

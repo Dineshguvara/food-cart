@@ -1,0 +1,30 @@
+.stack {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.stack1 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background-color: white;
+  color: #4d4d4d;
+  margin-top: 70px;
+  padding: 20px;
+  width: 200px;
+  height: 80px;
+  border-radius: 100px;
+}
+.increase {
+  margin-left: auto;
+  font-size: xx-large;
+}
+
+.decrease {
+  font-size: xx-large;
+  margin-right: auto;
+}
+.count {
+  font-size: xx-large;
+  font-weight: 500;
+}

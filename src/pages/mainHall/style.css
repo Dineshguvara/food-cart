@@ -1,0 +1,14 @@
+.gr_head {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 10px !important;
+}
+.gr_card {
+  position: relative;
+  box-shadow: none !important;
+}
+.time {
+  font-size: 10px;
+  font-weight: 500;
+}
